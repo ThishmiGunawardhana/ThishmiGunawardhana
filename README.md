@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thishmi Gunawardhana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A Undergraduate Bsc.Hons in Computing and Information Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thishmigunawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="thishmigunawardhana" /> </p>
 
-- 🌱 I’m currently learning **Computing and Information Systems,Sabaragamuwa University of Sri Lanka**
+- 🌱 I’m currently learning **Faculty of Computing,Sabaragamuwa University of Sri Lanka**
 
 - 📫 How to reach me **thishmiamaya@gmail.com**
 
